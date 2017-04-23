@@ -1,6 +1,7 @@
 # Kursovaya
 
-My student's work "GOST_R_3412-2015 kyzneychik"
+My student's work "GOST_R_3412-2015 kyzneychik"<br/>
+-
 How to use:
   1. Compilation: g++ main.cpp
   2. Available commands(attributes of the executable file):
